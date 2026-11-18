@@ -1,2 +1,19 @@
-# custom-waf
-Implementation of a web application firewall with custom rules to detect and block common web attacks Technologies: Python, Flask, ModSecurity rules
+# WAF evaluation workspace
+
+Planned web application firewall lab for rule evaluation, bypass cases, and benign controls.
+
+**Stage:** Planned lab.
+
+## Place in the portfolio
+
+This workspace contributes to **application security**. The main [security portfolio](https://github.com/cybersmeashish) connects research, application controls, AI, cloud, and cryptographic readiness.
+
+## Next publishable artifact
+
+A scoped research question, a minimal reference example, reproducible checks, and a result note distinguishing expected behavior from observations.
+
+## Evidence standard
+
+Record the source, scope, configuration, valid and denied cases, result, and limitation. A roadmap does not establish a working control, a real finding, or production adoption.
+
+For ethical hacking work, use owned or explicitly authorized targets and the applicable disclosure process.
